@@ -46,7 +46,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "@point-of-sale/receipt-printer-renderer": "^0.3.0"
+    "@point-of-sale/receipt-printer-renderer": "^1.0.0"
   },
   "peerDependenciesMeta": {
     "@point-of-sale/receipt-printer-renderer": {
